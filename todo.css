@@ -1,0 +1,31 @@
+
+*{
+    border: 0;
+    padding: 0%;
+}
+body {
+    background: linear-gradient(to bottom, #9400D3, #90EE90);
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  
+}
+
+.container {
+    background-color: rgb(247, 245, 245);
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 100%;
+
+}
+
+#taskList {
+    margin-top: 20px;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

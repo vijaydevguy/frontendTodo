@@ -1,0 +1,57 @@
+body {
+    background: radial-gradient(ellipse at center, #9a6bff 0%, #08dcc3 100%);
+}
+
+.signup-container {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 450px;
+    margin: 0 auto;
+    margin-top: 100px;
+
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+    color: #555;
+}
+
+input[type="text"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.btn-signup {
+    background: radial-gradient(ellipse at center, #9a6bff 0%, #08dcc3 100%);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.account{
+    font-size: medium;
+    padding: 0%;
+    margin: 5%;
+
+}
+
+.signin{
+    margin: 0%;
+}
+
